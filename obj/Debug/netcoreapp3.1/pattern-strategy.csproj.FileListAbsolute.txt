@@ -1,0 +1,13 @@
+C:\projects\dotnet\pattern-strategy\bin\Debug\netcoreapp3.1\pattern-strategy.exe
+C:\projects\dotnet\pattern-strategy\bin\Debug\netcoreapp3.1\pattern-strategy.deps.json
+C:\projects\dotnet\pattern-strategy\bin\Debug\netcoreapp3.1\pattern-strategy.runtimeconfig.json
+C:\projects\dotnet\pattern-strategy\bin\Debug\netcoreapp3.1\pattern-strategy.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-strategy\bin\Debug\netcoreapp3.1\pattern-strategy.dll
+C:\projects\dotnet\pattern-strategy\bin\Debug\netcoreapp3.1\pattern-strategy.pdb
+C:\projects\dotnet\pattern-strategy\obj\Debug\netcoreapp3.1\pattern-strategy.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-strategy\obj\Debug\netcoreapp3.1\pattern-strategy.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-strategy\obj\Debug\netcoreapp3.1\pattern-strategy.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-strategy\obj\Debug\netcoreapp3.1\pattern-strategy.AssemblyInfo.cs
+C:\projects\dotnet\pattern-strategy\obj\Debug\netcoreapp3.1\pattern-strategy.dll
+C:\projects\dotnet\pattern-strategy\obj\Debug\netcoreapp3.1\pattern-strategy.pdb
+C:\projects\dotnet\pattern-strategy\obj\Debug\netcoreapp3.1\pattern-strategy.genruntimeconfig.cache
