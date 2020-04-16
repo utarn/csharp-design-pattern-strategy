@@ -6,7 +6,7 @@ namespace pattern_strategy
     {
         static void Main(string[] args)
         {
-            var imgStorage = new LocalImageStorage();
+            ImageStorage imgStorage = new CloudImageStorage(new JpegCompressor(), new BlackWhiteFilter());
             imgStorage.Store("abc");
         }
     }

@@ -2,10 +2,10 @@ using System;
 
 namespace pattern_strategy
 {
-    public class LocalImageStorage : ImageStorage
+    public class CloudImageStorage : ImageStorage
     {
-        public LocalImageStorage(Compressor compressor, Filter filter)
-         : base(compressor, filter)
+        public CloudImageStorage(Compressor compressor, Filter filter)
+            : base(compressor, filter)
         {
         }
 
@@ -13,8 +13,7 @@ namespace pattern_strategy
         {
             _compressor.Compress(fileName);
             _filter.Filter(fileName);
-
-            Console.WriteLine($"Storing image {fileName}");
+            Console.WriteLine($"Storing image {fileName} to cloud.");
         }
     }
 }
